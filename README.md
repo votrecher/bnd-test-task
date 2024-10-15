@@ -10,9 +10,9 @@
 2) Установить все необходимые библиотеки
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 ## Запуск
 1) Поменяйте путь до файла в глобальной переменной INPUT_VIDEO_PATH
 2) Запустите программу
 ```bash
-python main.py
+python main.py```
